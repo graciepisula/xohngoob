@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ruukuonai.hungrysource.com/sitemap.xml
